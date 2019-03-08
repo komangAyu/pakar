@@ -1,0 +1,2 @@
+# pakar
+system pakar gigi
